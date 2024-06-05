@@ -4,6 +4,7 @@ This will take images from the input folder, do the math to crop them into a 1:1
 
 # How to use 
 1. Add your files to the input folder
-2. Run the python script
-3. Name your folder and the files
-4. Collect your cropped images from your specfied directory
+2. Install Pillow
+3. Run the python script
+4. Name your folder and the files
+5. Collect your cropped images from your specfied directory
